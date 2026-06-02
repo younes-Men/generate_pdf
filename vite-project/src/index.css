@@ -343,9 +343,9 @@ input[type=number] {
 
 /* Theme overrides */
 .tb_formations-theme {
-  --primary: #2563EB;
-  --primary-hover: #1D4ED8;
-  --bg-color: #f0f4f8;
+  --primary: #4f7886;
+  --primary-hover: #3d5f6a;
+  --bg-color: #f0f4f5;
   --surface: #ffffff;
 }
 
